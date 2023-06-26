@@ -1,5 +1,6 @@
-[
-  {
+{
+  "products" : [
+    {
     "id": "gid://shopify/Product/8412159541563",
     "title": "The Minimal Snowboard",
     "description": "",
@@ -540,3 +541,4 @@
     ]
   }
 ]
+}
