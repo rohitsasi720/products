@@ -1,19 +1,42 @@
 {
   "product": [
     {
-      "id": "8412159672635",
-      "title": "The Collection Snowboard: Hydrogen",
-      "featured_image": "https://cdn.shopify.com/s/files/1/0770/9235/6411/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1685734010",
-      "price": "600.00",
-      "url": "https://roaming720.myshopify.com/products/the-collection-snowboard-hydrogen",
-      "onSale": [
-        "no"
-      ],
-      "compareAtPrice": "0.00",
-      "totalVariants": 1,
+      "id": 8293637062966,
+      "title": "The Collection Snowboard: Liquidd",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1681463539",
+      "price": 649.95,
+      "compareAtPrice": 849.95,
+      "url": "https://rohit720.myshopify.com/products/the-collection-snowboard-liquid",
+      "onSale": true,
+      "variant_type": "Types 1",
+      "totalVariants": 3,
       "variants": [
         {
-          "id": "gid://shopify/ProductVariant/45348554178875"
+          "variant_id": 8293637062965,
+          "variant_title": "1st product Variant 1",
+          "variant_featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1681463540",
+          "variant_price": 8000.0,
+          "variant_compareAtPrice": 8849.95,
+          "variant_url": "https://rohit720.myshopify.com/products/the-collection-snowboard-liquid",
+          "onSale": true
+        },
+        {
+          "variant_id": "gid://shopify/ProductVariant/45348554178875",
+          "variant_title": "1st product Variant 2",
+          "variant_featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1681463542",
+          "variant_price": 33049.95,
+          "variant_compareAtPrice": 74889.95,
+          "variant_url": "https://rohit720.myshopify.com/products/the-collection-snowboard-solid",
+          "onSale": true
+        },
+        {
+          "variant_id": 45606794756406,
+          "variant_title": "1st product Variant 3",
+          "variant_featured_image": "https://cdn.shopify.com/s/files/1/0749/2403/2310/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1681463539",
+          "variant_price": 65449.95,
+          "variant_compareAtPrice": 73999.95,
+          "variant_url": "https://rohit720.myshopify.com/products/the-collection-snowboard-solid",
+          "onSale": true
         }
       ]
     }
