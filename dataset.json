@@ -1,0 +1,21 @@
+{
+  "product": [
+    {
+      "id": "8412159672635",
+      "title": "The Collection Snowboard: Hydrogen",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0770/9235/6411/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1685734010",
+      "price": "600.00",
+      "url": "https://roaming720.myshopify.com/products/the-collection-snowboard-hydrogen",
+      "onSale": [
+        "no"
+      ],
+      "compareAtPrice": "0.00",
+      "totalVariants": 1,
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/45348554178875"
+        }
+      ]
+    }
+  ]
+}
